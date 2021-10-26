@@ -11,3 +11,4 @@ Dotfiles macos darwin 2021
 - Tracckpad (Three Finger Drag and Tap to Click)
 - .zhrc
 - Git (config and ssh)
+- Add Homebrew
